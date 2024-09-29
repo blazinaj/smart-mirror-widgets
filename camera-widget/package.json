@@ -22,7 +22,7 @@
     "react-dom": "^16.10.2",
     "react-scripts-ts": "^3.1.0",
     "react-test-renderer": "^16.10.2",
-    "rollup": "^1.23.0",
+    "rollup": "^2.79.2",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
